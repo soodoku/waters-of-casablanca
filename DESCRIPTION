@@ -1,0 +1,34 @@
+Package: watersofcasablanca
+Type: Project
+Title: The Waters of Casablanca: On Political Misinformation
+Version: 0.0.1
+Authors@R: c(
+    person("Robert C.", "Luskin", role = "aut"),
+    person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com"))
+Description: Data, analyses, and manuscript for a paper that separates
+    misinformation from knowledge, mere belief, and ignorance and compares
+    multiple-choice items with a 0-10 probability scale in four randomized
+    survey experiments.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    assertr,
+    digest,
+    dplyr,
+    forcats,
+    ggplot2,
+    lubridate,
+    purrr,
+    readr,
+    rlang,
+    sandwich,
+    scales,
+    stringr,
+    tibble,
+    tidyr
+Suggests:
+    lintr,
+    renv,
+    styler,
+    testthat
+Config/testthat/edition: 3

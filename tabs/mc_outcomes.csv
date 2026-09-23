@@ -1,0 +1,66 @@
+study,arm,question,outcome,n
+alumni,mc,aca1,correct,59
+alumni,mc,aca1,don't know,72
+alumni,mc,aca1,incorrect,43
+alumni,mc,aca2,correct,69
+alumni,mc,aca2,don't know,69
+alumni,mc,aca2,incorrect,35
+alumni,mc,aca2,no answer,1
+mturk_july,mc,birth,correct,209
+mturk_july,mc,birth,don't know,19
+mturk_july,mc,birth,incorrect,18
+mturk_july,mc,death,correct,117
+mturk_july,mc,death,don't know,88
+mturk_july,mc,death,incorrect,41
+mturk_july,mc,deficit,correct,42
+mturk_july,mc,deficit,don't know,61
+mturk_july,mc,deficit,incorrect,143
+mturk_july,mc,fraud,correct,190
+mturk_july,mc,fraud,don't know,17
+mturk_july,mc,fraud,incorrect,39
+mturk_july,mc,illegal,correct,94
+mturk_july,mc,illegal,don't know,96
+mturk_july,mc,illegal,incorrect,56
+mturk_july,mc,increase,correct,184
+mturk_july,mc,increase,don't know,11
+mturk_july,mc,increase,incorrect,51
+mturk_july,mc,mmr,correct,181
+mturk_july,mc,mmr,don't know,45
+mturk_july,mc,mmr,incorrect,20
+mturk_july,mc,religion,correct,155
+mturk_july,mc,religion,don't know,48
+mturk_july,mc,religion,incorrect,43
+mturk_july,mc,science,correct,194
+mturk_july,mc,science,don't know,16
+mturk_july,mc,science,incorrect,36
+mturk_july,mc_media,birth,correct,204
+mturk_july,mc_media,birth,incorrect,33
+mturk_july,mc_media,death,correct,157
+mturk_july,mc_media,death,incorrect,80
+mturk_july,mc_media,deficit,correct,47
+mturk_july,mc_media,deficit,incorrect,190
+mturk_july,mc_media,fraud,correct,153
+mturk_july,mc_media,fraud,incorrect,84
+mturk_july,mc_media,illegal,correct,147
+mturk_july,mc_media,illegal,incorrect,90
+mturk_july,mc_media,increase,correct,168
+mturk_july,mc_media,increase,incorrect,69
+mturk_july,mc_media,mmr,correct,204
+mturk_july,mc_media,mmr,incorrect,33
+mturk_july,mc_media,religion,correct,172
+mturk_july,mc_media,religion,incorrect,65
+mturk_july,mc_media,science,correct,198
+mturk_july,mc_media,science,incorrect,39
+mturk_march,mc,aca1,correct,132
+mturk_march,mc,aca1,don't know,210
+mturk_march,mc,aca1,incorrect,215
+mturk_march,mc,aca2,correct,145
+mturk_march,mc,aca2,don't know,278
+mturk_march,mc,aca2,incorrect,134
+staff,mc,aca1,correct,25
+staff,mc,aca1,don't know,38
+staff,mc,aca1,incorrect,23
+staff,mc,aca1,no answer,1
+staff,mc,aca2,correct,30
+staff,mc,aca2,don't know,36
+staff,mc,aca2,incorrect,21

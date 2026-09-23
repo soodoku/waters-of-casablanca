@@ -1,0 +1,45 @@
+key,validation,doi_or_url,note
+althaus1998,crossref_doi (reused verbatim),10.2307/2585480,"Year placeholder resolved to 1998 APSR: the endnote pairs it with Delli Carpini & Keeter's simulations of fully informed preferences, which the 1998 article introduced"
+berinsky2009,crossref_doi,10.7208/chicago/9780226043463.001.0001,Ref list author misspelled 'Belinsky' in 04-08-18 (correct in 04-04-18-gs)
+berinsky2012,crossref_doi,10.1093/pan/mpr057,Not in ref list (04-08-18 only)
+bullock2015,crossref_doi,10.1561/100.00014074,Not in ref list (04-08-18 endnote only)
+cook2016,crossref_doi,10.1088/1748-9326/11/4/048002,Added for this manuscript
+cor2016,crossref_doi (reused verbatim),10.1093/pan/mpw010,
+debell2013,crossref_doi,10.1093/pan/mpt010,Placeholder in both latest drafts; 09-02-17 draft gives 'DeBell 2013'. Not in ref list
+dellicarpini1996,isbn (reused verbatim),isbn:9780300062564,
+festinger1957,crossref_doi,10.1515/9781503620766,Never cited in any draft body
+flynn2017,crossref_doi,10.1111/pops.12394,Added for this manuscript
+frankovic2016,web_page,https://today.yougov.com/topics/politics/articles-reports/2016/12/27/belief-conspiracies-largely-depends-political-iden,"Placeholder resolved: Economist/YouGov Dec 2016 poll, six in ten Trump voters believed millions voted illegally. Pew 2010 added for the Obama-Muslim claim in the same sentence"
+gaines2007,crossref_doi,10.1111/j.1468-2508.2007.00601.x,"Year wrong: JOP 69(4) is 2007, not 2008. Cited in earlier drafts"
+gibson2009,crossref_doi (reused verbatim),10.1017/s0022381609090379,
+graham2023,crossref_doi,10.1017/s0003055422000387,"Online July 2022; print APSR 117(1), Feb 2023"
+hofstetter1999,crossref_doi,10.1177/106591299905200205,Cited in earlier drafts
+huff2015,crossref_doi,10.1177/2053168015604648,Not in ref list (04-08-18 only)
+ipcc2013,crossref_doi,10.1017/CBO9781107415324.004,Added for this manuscript
+iyengar2009,crossref_doi,10.1111/j.1460-2466.2008.01402.x,Earlier drafts cite the 2007 ICA conference version. Cited in 2011 drafts
+krosnick2008,archived_url (reused verbatim),http://www.electionstudies.org/announce/newsltr/20080324PoliticalKnowledgeMemo.pdf,Cited in 2013-2017 drafts
+kuklinski2000,crossref_doi,10.1111/0022-3816.00033,Year wrong: JOP 62(3) is 2000 (earlier drafts cite 2000 in text). Cited in earlier drafts
+kull2003,crossref_doi,10.1002/j.1538-165x.2003.tb00406.x,"Ref list: Kull, Ramsay & Lewis 2003 PSQ 118(4) - matches"
+kunda1990,crossref_doi,10.1037/0033-2909.108.3.480,Some earlier ref lists misname author 'Zeev'; correct 'Ziva'. Never cited in any draft body
+li2020,crossref_doi,10.1093/joc/jqaa022,Added for this manuscript
+lippmann1922,library_catalog (Open Library),https://openlibrary.org/search?q=lippmann+public+opinion,Author misspelled 'Lippman' (correct Lippmann); publisher 'Hartcourt' -> Harcourt. Never cited in any draft body
+lord1979,crossref_doi,10.1037/0022-3514.37.11.2098,Cited in 2012-2013 drafts
+luskin2002,crossref_doi (reused verbatim),10.1017/s0007123402000194,Not in ref list
+luskin2005,author_archive (reused verbatim),https://web.stanford.edu/class/polisci353/2004fall/reading/BullockPiece.doc,Ref list: 'Re: Measuring political sophistication. Working Paper'; legacy biblio.bib instead titled a 2005 MPSA paper 'Don't Know Means Don't Know' (the JOP article's precursor). Reused entry follows the ref list title
+luskin2011,crossref_doi (reused verbatim),10.1017/s0022381611000132,"Ref list dates it 2012 ('Don't Know Means Don't Know', JOP); published 2011, 73(2)"
+luskin2012,secondary_citation (reused verbatim),,Not in ref list. Identified as 'Hidden Knowledge (and Veiled Ignorance)' MPSA 2012 via Cor & Sood 2016
+luskin2018,author_file+web,https://www.gsood.com/research/papers/misinformation_misinformation.pdf,"Draft omits 4th author Blank (earlier drafts: 'Luskin, Sood, Park, and Blank 2017'). Unpublished MPSA 2018 draft (Mar 30, 2018); no journal version found (Crossref, web; Altay et al. 2023 cite it as unpublished). Not in ref list"
+mondak1999,crossref_doi (reused verbatim),10.1093/oxfordjournals.pan.a029805,2010 drafts
+mullinix2015,crossref_doi,10.1017/xps.2015.19,"Draft year 2016 = online date (Jan 2016); issue is JEPS 2(2), 2015. Not in ref list"
+nyhan2010a,crossref_doi,10.2202/1540-8884.1354,In-text Nyhan 2010 (death panels) is The Forum 8(1). Public Choice testimony paper in the old ref list was never cited for this and is dropped
+nyhan2010b,crossref_doi,10.1007/s11109-010-9112-2,Cited in 2012-2013 drafts
+pasek2015,crossref_doi,10.1111/jcom.12165,Crossref BibTeX appends a running-head subtitle to the title; dropped
+peterson2021,crossref_doi,10.1111/ajps.12535,"Online June 2020 (Crossref BibTeX says 2020); print AJPS 65(1), Jan 2021"
+pew2009,publisher_page,https://www.pewresearch.org/politics/2009/08/20/health-care-reform-closely-followed-much-discussed/,"Ref list title 'Death Panels Live On With Fox Viewers. Fewer See Press As Fair To Obama' not on report page; actual title 'Health Care Reform Closely Followed, Much Discussed' (Aug 20, 2009)"
+pew2010,web_page,https://www.pewresearch.org/politics/2010/08/19/growing-number-of-americans-say-obama-is-a-muslim/,"18% said Obama is a Muslim, July-Aug 2010"
+prior2015,crossref_doi,10.1561/100.00014127,Not in ref list (04-08-18 endnote only)
+schaffner2018,crossref_doi,10.1093/poq/nfx042,Added for this manuscript
+shen2025,crossref_doi,10.1093/poq/nfaf044,Added for this manuscript
+stroud2010,crossref_doi,10.1111/j.1460-2466.2010.01497.x,2011 drafts
+sturgis2008,crossref_doi (reused verbatim),10.1093/poq/nfm032,04-04-18-gs has placeholder 'Sturgis xxxx'; 09-02-17 draft says 2007. Not in ref list
+taber2006,crossref_doi,10.1111/j.1540-5907.2006.00214.x,Cited (no year) in 2012-2013 drafts

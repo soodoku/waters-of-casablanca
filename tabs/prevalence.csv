@@ -1,0 +1,77 @@
+study,prop_id,text,truth,congenial,n,successes,estimate,lower,upper,scoring,skipped
+alumni,aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,160,6,0.0375,0.01729792316650012,0.07938980736714216,strict,0
+alumni,aca_death_panel,Allows a government panel to make decisions about end-of-life care for people on Medicare,FALSE,R,160,4,0.025,0.009763992546262524,0.0625098928666674,strict,0
+alumni,aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,160,9,0.05625,0.029872301755764163,0.1034361964589467,strict,0.0125
+alumni,aca_mammograms,Does not reimburse routine mammograms for women younger than 50,FALSE,R,160,13,0.08125,0.04809581468480731,0.1340403737713283,strict,0.01875
+alumni,aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,160,29,0.18125,0.12926566148989363,0.2481812879319409,strict,0.00625
+alumni,aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,160,25,0.15625,0.10813126408910953,0.22048799509130032,strict,0.00625
+alumni,aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,160,3,0.01875,0.00639685075325945,0.053670112099314285,strict,0
+alumni,aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,160,1,0.00625,0.0011041317693822085,0.034548985962479156,strict,0.00625
+mturk_july,j_birth,Barack Obama was born in the US,TRUE,R,267,17,0.06367041198501873,0.04012918801107102,0.09958892968577099,strict,0.0898876404494382
+mturk_july,j_death,The Affordable Care Act does not create government panels to make decisions about end-of-life care,TRUE,R,267,20,0.0749063670411985,0.04901076551665359,0.11286053369872467,strict,0.4307116104868914
+mturk_july,j_deficit,"Since 2012, the annual federal budget deficit has increased",FALSE,R,267,77,0.2883895131086142,0.23735621546194288,0.34542553260562436,strict,0.30711610486891383
+mturk_july,j_fraud,"In the 2016 presidential election, President Trump won the majority of the legally cast votes",FALSE,R,267,19,0.07116104868913857,0.04602679860078502,0.10846010677508117,strict,0.06741573033707865
+mturk_july,j_illegal,The Affordable Care Act gives illegal immigrants financial help to buy health insurance,FALSE,R,267,8,0.0299625468164794,0.015259128635740641,0.057999444505492576,strict,0.4232209737827715
+mturk_july,j_increase,"Temperatures around the world are increasing because of human activity, like burning coal and gasoline",TRUE,R,267,15,0.056179775280898875,0.034337823158684055,0.09061150685913374,strict,0.06741573033707865
+mturk_july,j_mmr,"The vaccine for measles, mumps, and rubella (MMR) causes autism in children",FALSE,none,267,5,0.018726591760299626,0.008024748380095436,0.043080643242601524,strict,0.11610486891385768
+mturk_july,j_religion,Barack Obama is a Muslim,FALSE,R,267,11,0.04119850187265917,0.023157803414132063,0.0722539512456374,strict,0.13108614232209737
+mturk_july,j_science,Most climate scientists believe that global warming is not occurring,FALSE,R,267,5,0.018726591760299626,0.008024748380095436,0.043080643242601524,strict,0.0449438202247191
+mturk_march,m_aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,502,21,0.04183266932270916,0.02752157453036638,0.06310258847827217,strict,0
+mturk_march,m_aca_death_panel,Creates government panels to make end-of-life decisions for people on Medicare,FALSE,R,502,21,0.04183266932270916,0.02752157453036638,0.06310258847827217,strict,0
+mturk_march,m_aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,502,41,0.08167330677290836,0.060773655272001015,0.10892666747501678,strict,0
+mturk_march,m_aca_mammograms,Reimburse routine mammograms only for women older than 50,FALSE,R,502,25,0.049800796812749,0.0339570043317698,0.07248239062454462,strict,0
+mturk_march,m_aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,502,70,0.1394422310756972,0.11186888739520623,0.17249186697246144,strict,0
+mturk_march,m_aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,502,113,0.2250996015936255,0.19073163184355724,0.26364286596162584,strict,0
+mturk_march,m_aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,502,23,0.045816733067729085,0.030721446434648393,0.06781033254782809,strict,0
+mturk_march,m_aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,502,30,0.05976095617529881,0.0421783465692865,0.08403008832162275,strict,0
+mturk_march,m_eo_ban,Temporarily bans immigrants from several majority-Muslim countries,TRUE,R,502,8,0.01593625498007968,0.008096779101684864,0.031127880077007192,strict,0
+mturk_march,m_eo_muslim_green_cards,Strips immigrants from several Muslim-majority countries of their green cards,FALSE,D,502,77,0.15338645418326693,0.12450515679758048,0.18753225347851996,strict,0
+mturk_march,m_eo_terror_green_cards,Strips immigrants from countries supporting terrorism of their green cards,FALSE,D,502,65,0.1294820717131474,0.102903541310251,0.16168817312282188,strict,0
+mturk_march,m_gg_lung_cancer,A cause of lung cancer,FALSE,D,502,53,0.10557768924302789,0.08162677195686195,0.13551924663318343,strict,0
+mturk_march,m_gg_sea_levels,A cause of rising sea levels,TRUE,R,502,33,0.06573705179282868,0.04718821905602243,0.09088163979564368,strict,0
+staff,aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,90,6,0.06666666666666667,0.030909927745827945,0.13790094774325523,strict,0
+staff,aca_death_panel,Allows a government panel to make decisions about end-of-life care for people on Medicare,FALSE,R,90,2,0.022222222222222223,0.006115441986325201,0.0774452668862537,strict,0.011111111111111112
+staff,aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,90,2,0.022222222222222223,0.006115441986325201,0.0774452668862537,strict,0.011111111111111112
+staff,aca_mammograms,Does not reimburse routine mammograms for women younger than 50,FALSE,R,90,5,0.05555555555555555,0.023960971616961965,0.12353736221799512,strict,0
+staff,aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,90,12,0.13333333333333333,0.07794682040686314,0.21873930500697647,strict,0.022222222222222223
+staff,aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,90,10,0.1111111111111111,0.06148319189297713,0.1925778502126103,strict,0.022222222222222223
+staff,aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,90,1,0.011111111111111112,0.0019640841009183445,0.060284083117534484,strict,0
+staff,aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,90,0,0,0,0.040935625564326755,strict,0
+alumni,aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,160,7,0.04375,0.02135161155153454,0.08754304154246395,lenient,0
+alumni,aca_death_panel,Allows a government panel to make decisions about end-of-life care for people on Medicare,FALSE,R,160,5,0.03125,0.01342051668764441,0.0710602912856417,lenient,0
+alumni,aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,160,9,0.05625,0.029872301755764163,0.1034361964589467,lenient,0.0125
+alumni,aca_mammograms,Does not reimburse routine mammograms for women younger than 50,FALSE,R,160,14,0.0875,0.052836793394595745,0.14150631762189603,lenient,0.01875
+alumni,aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,160,33,0.20625,0.15080086366994008,0.27547377599331924,lenient,0.00625
+alumni,aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,160,26,0.1625,0.11337365160907038,0.22745253013169564,lenient,0.00625
+alumni,aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,160,5,0.03125,0.01342051668764441,0.0710602912856417,lenient,0
+alumni,aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,160,3,0.01875,0.00639685075325945,0.053670112099314285,lenient,0.00625
+mturk_july,j_birth,Barack Obama was born in the US,TRUE,R,267,21,0.07865168539325842,0.052016120316187964,0.11723957273870236,lenient,0.0898876404494382
+mturk_july,j_death,The Affordable Care Act does not create government panels to make decisions about end-of-life care,TRUE,R,267,23,0.08614232209737828,0.058085837636199934,0.1259386430977146,lenient,0.4307116104868914
+mturk_july,j_deficit,"Since 2012, the annual federal budget deficit has increased",FALSE,R,267,88,0.3295880149812734,0.27597105439312164,0.38803902590907846,lenient,0.30711610486891383
+mturk_july,j_fraud,"In the 2016 presidential election, President Trump won the majority of the legally cast votes",FALSE,R,267,26,0.09737827715355805,0.06732190570516125,0.13885575654728954,lenient,0.06741573033707865
+mturk_july,j_illegal,The Affordable Care Act gives illegal immigrants financial help to buy health insurance,FALSE,R,267,12,0.0449438202247191,0.02589386241272529,0.07690228608655626,lenient,0.4232209737827715
+mturk_july,j_increase,"Temperatures around the world are increasing because of human activity, like burning coal and gasoline",TRUE,R,267,21,0.07865168539325842,0.052016120316187964,0.11723957273870236,lenient,0.06741573033707865
+mturk_july,j_mmr,"The vaccine for measles, mumps, and rubella (MMR) causes autism in children",FALSE,none,267,7,0.026217228464419477,0.012756463213538662,0.053117716088182464,lenient,0.11610486891385768
+mturk_july,j_religion,Barack Obama is a Muslim,FALSE,R,267,12,0.0449438202247191,0.02589386241272529,0.07690228608655626,lenient,0.13108614232209737
+mturk_july,j_science,Most climate scientists believe that global warming is not occurring,FALSE,R,267,6,0.02247191011235955,0.01033882367731975,0.048150961784889285,lenient,0.0449438202247191
+mturk_march,m_aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,502,34,0.06772908366533864,0.04886938498775864,0.09315428185082641,lenient,0
+mturk_march,m_aca_death_panel,Creates government panels to make end-of-life decisions for people on Medicare,FALSE,R,502,32,0.06374501992031872,0.045512499848331084,0.08860355101641607,lenient,0
+mturk_march,m_aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,502,53,0.10557768924302789,0.08162677195686195,0.13551924663318343,lenient,0
+mturk_march,m_aca_mammograms,Reimburse routine mammograms only for women older than 50,FALSE,R,502,50,0.099601593625498,0.07636870242606734,0.12891589220322114,lenient,0
+mturk_march,m_aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,502,100,0.199203187250996,0.16660693214556888,0.23636806182966769,lenient,0
+mturk_march,m_aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,502,137,0.2729083665338645,0.23577569693139405,0.31349019255984406,lenient,0
+mturk_march,m_aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,502,32,0.06374501992031872,0.045512499848331084,0.08860355101641607,lenient,0
+mturk_march,m_aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,502,45,0.08964143426294821,0.06766908793166859,0.11784646676302507,lenient,0
+mturk_march,m_eo_ban,Temporarily bans immigrants from several majority-Muslim countries,TRUE,R,502,12,0.02390438247011952,0.013726201553515545,0.041313689572852356,lenient,0
+mturk_march,m_eo_muslim_green_cards,Strips immigrants from several Muslim-majority countries of their green cards,FALSE,D,502,111,0.22111553784860558,0.1870065989819792,0.25946028284936595,lenient,0
+mturk_march,m_eo_terror_green_cards,Strips immigrants from countries supporting terrorism of their green cards,FALSE,D,502,96,0.19123505976095617,0.15922804826000614,0.2279317137675546,lenient,0
+mturk_march,m_gg_lung_cancer,A cause of lung cancer,FALSE,D,502,76,0.15139442231075698,0.12269429075231211,0.1853893115368694,lenient,0
+mturk_march,m_gg_sea_levels,A cause of rising sea levels,TRUE,R,502,48,0.09561752988047809,0.07287885070478009,0.12449812795067045,lenient,0
+staff,aca_cuts_benefits,Cuts benefits to existing Medicare patients,FALSE,R,90,8,0.08888888888888889,0.045730492536794516,0.16570546626054083,lenient,0
+staff,aca_death_panel,Allows a government panel to make decisions about end-of-life care for people on Medicare,FALSE,R,90,2,0.022222222222222223,0.006115441986325201,0.0774452668862537,lenient,0.011111111111111112
+staff,aca_illegal,Provides coverage for people who are currently in the country illegally,FALSE,R,90,5,0.05555555555555555,0.023960971616961965,0.12353736221799512,lenient,0.011111111111111112
+staff,aca_mammograms,Does not reimburse routine mammograms for women younger than 50,FALSE,R,90,9,0.1,0.05350675169712493,0.17924174875433646,lenient,0
+staff,aca_payroll_tax,Increases the Medicare payroll tax for upper-income Americans,TRUE,none,90,13,0.14444444444444443,0.08639988786660785,0.2315987792013578,lenient,0.022222222222222223
+staff,aca_provider_payments,Limits future increases in payments to Medicare providers,TRUE,D,90,10,0.1111111111111111,0.06148319189297713,0.1925778502126103,lenient,0.022222222222222223
+staff,aca_public_option,"Replaces Medicare with a ""public option""",FALSE,none,90,1,0.011111111111111112,0.0019640841009183445,0.060284083117534484,lenient,0
+staff,aca_single_payer,"Replaces private health insurance with a ""single payer system""",FALSE,R,90,0,0,0,0.040935625564326755,lenient,0

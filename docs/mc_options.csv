@@ -1,0 +1,51 @@
+study,question,pattern,correct
+alumni;staff,aca1,couldn t say,
+alumni;staff,aca1,country illegally,FALSE
+alumni;staff,aca1,single payer,FALSE
+alumni;staff,aca1,payroll tax,TRUE
+alumni;staff,aca1,mammograms,FALSE
+alumni;staff,aca2,couldn t say,
+alumni;staff,aca2,end of life,FALSE
+alumni;staff,aca2,public option,FALSE
+alumni;staff,aca2,payments to medicare providers,TRUE
+alumni;staff,aca2,cuts benefits,FALSE
+mturk_march,aca1,don t know,
+mturk_march,aca1,country illegally,FALSE
+mturk_march,aca1,single payer,FALSE
+mturk_march,aca1,payroll tax,TRUE
+mturk_march,aca1,mammograms,FALSE
+mturk_march,aca2,don t know,
+mturk_march,aca2,end of life,FALSE
+mturk_march,aca2,public option,FALSE
+mturk_march,aca2,payments to medicare providers,TRUE
+mturk_march,aca2,cut benefits,FALSE
+mturk_july,birth,don t know,
+mturk_july,birth,the us,TRUE
+mturk_july,birth,another country,FALSE
+mturk_july,religion,don t know,
+mturk_july,religion,christian,TRUE
+mturk_july,religion,muslim,FALSE
+mturk_july,illegal,don t know,
+mturk_july,illegal,^not give|^does not give,TRUE
+mturk_july,illegal,^give|^gives,FALSE
+mturk_july,death,don t know,
+mturk_july,death,^does not create,TRUE
+mturk_july,death,^creates,FALSE
+mturk_july,increase,don t know,
+mturk_july,increase,human activity,TRUE
+mturk_july,increase,natural variation,FALSE
+mturk_july,increase,staying about the same,FALSE
+mturk_july,science,don t know,
+mturk_july,science,global warming is occurring$,TRUE
+mturk_july,science,equally divided,FALSE
+mturk_july,science,global warming is not occurring$,FALSE
+mturk_july,fraud,don t know,
+mturk_july,fraud,^did not win,TRUE
+mturk_july,fraud,^win|^won,FALSE
+mturk_july,mmr,don t know,
+mturk_july,mmr,^not cause|^does not cause,TRUE
+mturk_july,mmr,^cause|^causes,FALSE
+mturk_july,deficit,don t know,
+mturk_july,deficit,decreased,TRUE
+mturk_july,deficit,increased,FALSE
+mturk_july,deficit,stayed about the same,FALSE
